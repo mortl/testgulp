@@ -1,0 +1,17 @@
+{
+  "name": "testgulp",
+  "description": "Learning how to use gulp",
+  "main": "index.js",
+  "authors": [
+    "Martin Benes"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mortl/testgulp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
